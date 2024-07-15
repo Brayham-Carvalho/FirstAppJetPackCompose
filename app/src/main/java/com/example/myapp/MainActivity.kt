@@ -175,7 +175,7 @@ fun Portfolio(data: List<String>) {
                     )
                     Column (modifier = Modifier.padding(7.dp).align(alignment = Alignment.CenterVertically)){
                         Text(text = item, fontWeight = FontWeight.Bold)
-                        Text(text = "Excelente Projeto!",
+                        Text(text = "Excelente Projeto",
                             style = MaterialTheme.typography.bodySmall)
                     }
 
