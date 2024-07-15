@@ -1,6 +1,9 @@
 # My App - Cartão de Visita Interativo
 
 Este projeto Android demonstra a criação de um cartão de visita interativo usando Jetpack Compose. O aplicativo apresenta um cartão com informações básicas do usuário, uma imagem de perfil e um botão "Portfólio". Ao clicar no botão, uma lista de projetos é exibida em um formato de cartão.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fbd36863-cee7-447c-9574-177746afb907" />
+</div>
 
 ## Funcionalidades
 
